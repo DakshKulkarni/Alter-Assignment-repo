@@ -1,5 +1,5 @@
 # Multiplayer Turn-Based Card Game – Assignment README
-Unity version used: Unity 6000.0.41
+Unity version used: Unity 6000.0.41.
 This project is a 2-player online card game built in Unity using Mirror networking and JSON-based card data.  
 Tested on:
 - Android ↔ Android  
