@@ -1,5 +1,5 @@
 # Multiplayer Turn-Based Card Game – Assignment README
-
+Unity version used: Unity 6000.0.41
 This project is a 2-player online card game built in Unity using Mirror networking and JSON-based card data.  
 Tested on:
 - Android ↔ Android  
@@ -149,6 +149,7 @@ Contains:
 # Instructions To Run & Test
 
 ## IMPORTANT: Set Correct IP Address
+There might be a scenario where you will have to set the IP address according to your device manually in the project itself and build again. I realise this is not feasible but I was already late to submit the assigment and had to submit the working game.
 In `Lobby → NetworkManager`, set:
 
 ```
