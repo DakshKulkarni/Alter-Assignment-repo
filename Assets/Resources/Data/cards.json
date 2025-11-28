@@ -1,0 +1,84 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "name": "Beginner",
+      "cost": 1,
+      "power": 1,
+      "ability": {
+        "type": "None",
+        "value": 0
+      }
+    },
+    {
+      "id": 2,
+      "name": "Rookie",
+      "cost": 1,
+      "power": 2,
+      "ability": {
+        "type": "GainPoints",
+        "value": 1
+      }
+    },
+    {
+      "id": 3,
+      "name": "Apprentice",
+      "cost": 2,
+      "power": 2,
+      "ability": {
+        "type": "GainPoints",
+        "value": 2
+      }
+    },
+    {
+      "id": 4,
+      "name": "Tactician",
+      "cost": 2,
+      "power": 3,
+      "ability": {
+        "type": "StealPoints",
+        "value": 2
+      }
+    },
+    {
+      "id": 5,
+      "name": "Veteran",
+      "cost": 3,
+      "power": 3,
+      "ability": {
+        "type": "DoublePower",
+        "value": 2
+      }
+    },
+    {
+      "id": 6,
+      "name": "Elite",
+      "cost": 3,
+      "power": 4,
+      "ability": {
+        "type": "GainPoints",
+        "value": 3
+      }
+    },
+    {
+      "id": 7,
+      "name": "Champion",
+      "cost": 4,
+      "power": 4,
+      "ability": {
+        "type": "StealPoints",
+        "value": 3
+      }
+    },
+    {
+      "id": 8,
+      "name": "Grandmaster",
+      "cost": 4,
+      "power": 5,
+      "ability": {
+        "type": "DoublePower",
+        "value": 3
+      }
+    }
+  ]
+}
